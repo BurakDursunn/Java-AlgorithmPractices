@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fbd3bdb6-6840-4346-a3ef-c0e9e9effe94" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Second.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Matrix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/First.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SingleThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SingleThread.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +48,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Fibonacci">
     <configuration name="DivideByZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DivideByZero" />
       <module name="Java-AlgorithmPractices" />
@@ -56,8 +56,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fibonacci" />
+      <module name="Java-AlgorithmPractices" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingleThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SingleThread" />
+      <module name="Java-AlgorithmPractices" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Fibonacci" />
+        <item itemvalue="Application.SingleThread" />
         <item itemvalue="Application.DivideByZero" />
       </list>
     </recent_temporary>
@@ -71,6 +87,7 @@
       <option name="presentableId" value="Default" />
       <updated>1729698965944</updated>
       <workItem from="1729698966603" duration="1979000" />
+      <workItem from="1730548369303" duration="1158000" />
     </task>
     <task id="LOCAL-00001" summary="Initial">
       <created>1729699010480</created>
@@ -86,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1729699084530</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Initial.">
+      <created>1730548430487</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730548430487</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -4,8 +4,6 @@ public class DivideByZero {
 
     public static void main(String[] args) {
 
-        // Dividing by 0 exception
-
         System.out.println("Enter a number: ");
 
         Scanner scanner = new Scanner(System.in);

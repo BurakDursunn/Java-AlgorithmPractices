@@ -10,7 +10,7 @@ public class DivideByZero {
         int input = scanner.nextInt();
 
         try {
-            System.out.println(input/ 0);
+            System.out.println(input / 0);
         } catch (ArithmeticException e) {
             System.out.println(e);
             System.out.println("Error: division by zero");

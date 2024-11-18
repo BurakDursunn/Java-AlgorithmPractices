@@ -4,10 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fbd3bdb6-6840-4346-a3ef-c0e9e9effe94" name="Changes" comment="">
+    <list default="true" id="fbd3bdb6-6840-4346-a3ef-c0e9e9effe94" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/src/ArrayReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTreeHeight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CharacterFrequency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CommonElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FibonacciSeries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PalindromeCheckNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RepeatingFirstElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SmallestMissingPositive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringPermutations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SumOfNumbersInString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DivideByZero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DivideByZero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrimeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AnagramCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnagramCheck.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,37 +58,37 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PrimeNumber">
-    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Fibonacci" />
+  <component name="RunManager" selected="Application.SmallestMissingPositive">
+    <configuration name="ArrayReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayReverse" />
       <module name="Java-AlgorithmPractices" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxNumberInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MaxNumberInArray" />
+    <configuration name="BinaryTreeHeight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinaryTreeHeight" />
       <module name="Java-AlgorithmPractices" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PalindromeCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PalindromeCheck" />
+    <configuration name="CommonElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CommonElements" />
       <module name="Java-AlgorithmPractices" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrimeNumber" />
+    <configuration name="SmallestMissingPositive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SmallestMissingPositive" />
       <module name="Java-AlgorithmPractices" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReverseString" />
+    <configuration name="StringPermutations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringPermutations" />
       <module name="Java-AlgorithmPractices" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,11 +96,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PrimeNumber" />
-        <item itemvalue="Application.MaxNumberInArray" />
-        <item itemvalue="Application.PalindromeCheck" />
-        <item itemvalue="Application.ReverseString_PalindromeCheck" />
-        <item itemvalue="Application.Fibonacci" />
+        <item itemvalue="Application.SmallestMissingPositive" />
+        <item itemvalue="Application.BinaryTreeHeight" />
+        <item itemvalue="Application.StringPermutations" />
+        <item itemvalue="Application.CommonElements" />
+        <item itemvalue="Application.ArrayReverse" />
       </list>
     </recent_temporary>
   </component>
@@ -102,7 +113,8 @@
       <option name="presentableId" value="Default" />
       <updated>1729698965944</updated>
       <workItem from="1729698966603" duration="1979000" />
-      <workItem from="1730548369303" duration="4291000" />
+      <workItem from="1730548369303" duration="4894000" />
+      <workItem from="1731929303468" duration="4934000" />
     </task>
     <task id="LOCAL-00001" summary="Initial">
       <created>1729699010480</created>
@@ -139,7 +151,21 @@
       <option name="project" value="LOCAL" />
       <updated>1730553391119</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="commit">
+      <created>1730554035765</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1730554035765</updated>
+    </task>
+    <task id="LOCAL-00007" summary="commit">
+      <created>1731929393747</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1731929393747</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

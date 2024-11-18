@@ -13,6 +13,9 @@ public class SumOfNumbersInString {
         return sum + Integer.parseInt(temp);
     }
 
-   
+    public static void main(String[] args) {
+        String str = "12abc20yz68";
+        System.out.println(sumOfNumbers(str)); // Output: 100
+    }
 }
 

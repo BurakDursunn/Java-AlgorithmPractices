@@ -17,9 +17,10 @@ public class UnionIntersection {
     }
 
     public static void main(String[] args) {
-        int[] arr1 = {1, 2, 3, 4};
-        int[] arr2 = {3, 4, 5, 6};
-        System.out.println("Union: " + union(arr1, arr2)); // Output: [1, 2, 3, 4, 5, 6]
-        System.out.println("Intersection: " + intersection(arr1, arr2)); // Output: [3, 4]
+        int[] arr1 = {1, 2, 3, 4, 1};
+        int[] arr2 = {3, 4, 5, 6, 3};
+        System.out.println("Union: " + union(arr1, arr2));
+        System.out.println("Intersection: " + intersection(arr1, arr2));
+        
     }
 }

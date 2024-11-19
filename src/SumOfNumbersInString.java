@@ -14,8 +14,8 @@ public class SumOfNumbersInString {
     }
 
     public static void main(String[] args) {
-        String str = "12abc20yz68";
-        System.out.println(sumOfNumbers(str)); // Output: 100
+        String str = "2abc20yz68";
+        System.out.println(sumOfNumbers(str));
     }
 }
 

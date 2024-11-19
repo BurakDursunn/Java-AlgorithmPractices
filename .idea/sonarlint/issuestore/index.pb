@@ -1,9 +1,6 @@
 
 K
 Java-AlgorithmPractices.iml,e/2/e29b089aebea935499c3fc61234490f2eac689d2
-:
-
-.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
 F
 src/ReverseString.java,2/2/2276cf3f7f2defc10259f641955b4758c5c356d5
 E

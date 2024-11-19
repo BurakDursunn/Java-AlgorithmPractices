@@ -4,21 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fbd3bdb6-6840-4346-a3ef-c0e9e9effe94" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/ArrayReverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinaryTreeHeight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CharacterFrequency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CommonElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FibonacciSeries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PalindromeCheckNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RepeatingFirstElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SmallestMissingPositive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringPermutations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SumOfNumbersInString.java" afterDir="false" />
+    <list default="true" id="fbd3bdb6-6840-4346-a3ef-c0e9e9effe94" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/BalancedParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UnionIntersection.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AnagramCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnagramCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SumOfNumbersInString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SumOfNumbersInString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,9 +50,14 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SmallestMissingPositive">
-    <configuration name="ArrayReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayReverse" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.BalancedParentheses">
+    <configuration name="BalancedParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BalancedParentheses" />
       <module name="Java-AlgorithmPractices" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -68,13 +65,6 @@
     </configuration>
     <configuration name="BinaryTreeHeight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BinaryTreeHeight" />
-      <module name="Java-AlgorithmPractices" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CommonElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CommonElements" />
       <module name="Java-AlgorithmPractices" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -94,13 +84,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SumOfNumbersInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SumOfNumbersInString" />
+      <module name="Java-AlgorithmPractices" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BalancedParentheses" />
+        <item itemvalue="Application.SumOfNumbersInString" />
         <item itemvalue="Application.SmallestMissingPositive" />
         <item itemvalue="Application.BinaryTreeHeight" />
         <item itemvalue="Application.StringPermutations" />
-        <item itemvalue="Application.CommonElements" />
-        <item itemvalue="Application.ArrayReverse" />
       </list>
     </recent_temporary>
   </component>
@@ -114,7 +111,7 @@
       <updated>1729698965944</updated>
       <workItem from="1729698966603" duration="1979000" />
       <workItem from="1730548369303" duration="4894000" />
-      <workItem from="1731929303468" duration="4934000" />
+      <workItem from="1731929303468" duration="8317000" />
     </task>
     <task id="LOCAL-00001" summary="Initial">
       <created>1729699010480</created>
@@ -165,7 +162,28 @@
       <option name="project" value="LOCAL" />
       <updated>1731929393747</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="commit">
+      <created>1731935404435</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1731935404435</updated>
+    </task>
+    <task id="LOCAL-00009" summary="commit">
+      <created>1731935486461</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1731935486461</updated>
+    </task>
+    <task id="LOCAL-00010" summary="commit">
+      <created>1731935582019</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1731935582019</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

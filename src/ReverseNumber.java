@@ -11,7 +11,7 @@ public class ReverseNumber {
     }
 
     public static void main(String[] args) {
-        System.out.println(reverse(5698));
+        System.out.println(reverse(15));
         System.out.println(reverse(-456));
     }
 }

@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fbd3bdb6-6840-4346-a3ef-c0e9e9effe94" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ReverseNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReverseWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArmstrongNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Depreciation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToggleCase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReverseNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReverseNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,16 +54,23 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ReverseNumber">
-    <configuration name="DigitalRoot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DigitalRoot" />
+  <component name="RunManager" selected="Application.Depreciation">
+    <configuration name="ArmstrongNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArmstrongNumber" />
       <module name="Java-AlgorithmPractices" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MissingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MissingNumber" />
+    <configuration name="Depreciation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Depreciation" />
+      <module name="Java-AlgorithmPractices" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DigitalRoot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DigitalRoot" />
       <module name="Java-AlgorithmPractices" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,20 +90,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UniqueCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UniqueCharacters" />
-      <module name="Java-AlgorithmPractices" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Depreciation" />
+        <item itemvalue="Application.ArmstrongNumber" />
         <item itemvalue="Application.ReverseNumber" />
         <item itemvalue="Application.ReverseWords" />
         <item itemvalue="Application.DigitalRoot" />
-        <item itemvalue="Application.MissingNumber" />
-        <item itemvalue="Application.UniqueCharacters" />
       </list>
     </recent_temporary>
   </component>
@@ -108,7 +110,7 @@
       <updated>1729698965944</updated>
       <workItem from="1729698966603" duration="1979000" />
       <workItem from="1730548369303" duration="4894000" />
-      <workItem from="1731929303468" duration="13055000" />
+      <workItem from="1731929303468" duration="14903000" />
     </task>
     <task id="LOCAL-00001" summary="Initial">
       <created>1729699010480</created>
@@ -194,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1732021028779</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="commit">
+      <created>1732022255070</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1732022255070</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

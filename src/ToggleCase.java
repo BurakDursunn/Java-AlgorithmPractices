@@ -14,6 +14,6 @@ public class ToggleCase {
     }
 
     public static void main(String[] args) {
-        System.out.println(toggleCase("Hello World!")); // Output: "hELLO wORLD!"
+        System.out.println(toggleCase("Burak Dursun Hello!"));
     }
 }

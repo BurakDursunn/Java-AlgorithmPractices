@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fbd3bdb6-6840-4346-a3ef-c0e9e9effe94" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ReverseEvenNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Star.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ToggleCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ToggleCase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,16 +53,9 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AnagramCheck">
+  <component name="RunManager" selected="Application.Star">
     <configuration name="AnagramCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AnagramCheck" />
-      <module name="Java-AlgorithmPractices" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArmstrongNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArmstrongNumber" />
       <module name="Java-AlgorithmPractices" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,6 +75,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Star" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Star" />
+      <module name="Java-AlgorithmPractices" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ToggleCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ToggleCase" />
       <module name="Java-AlgorithmPractices" />
@@ -90,11 +91,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Star" />
         <item itemvalue="Application.AnagramCheck" />
         <item itemvalue="Application.ReverseEvenNumbers" />
         <item itemvalue="Application.ToggleCase" />
         <item itemvalue="Application.Depreciation" />
-        <item itemvalue="Application.ArmstrongNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -108,7 +109,8 @@
       <updated>1729698965944</updated>
       <workItem from="1729698966603" duration="1979000" />
       <workItem from="1730548369303" duration="4894000" />
-      <workItem from="1731929303468" duration="16390000" />
+      <workItem from="1731929303468" duration="16405000" />
+      <workItem from="1732536547023" duration="919000" />
     </task>
     <task id="LOCAL-00001" summary="Initial">
       <created>1729699010480</created>
@@ -208,7 +210,14 @@
       <option name="project" value="LOCAL" />
       <updated>1732100032610</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="commit">
+      <created>1732190516178</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1732190516178</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

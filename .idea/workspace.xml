@@ -5,10 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fbd3bdb6-6840-4346-a3ef-c0e9e9effe94" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Star.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AlgPalindromeControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AlgtwoSumArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CapitalizeWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassImpl/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassImpl/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassImpl/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ContainsVowels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FindDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListContainsOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MissingNumberArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OddNumberSorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReverString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RotateArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringImmutability.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringSubsetCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwapNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Star.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Star.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,37 +69,37 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Star">
-    <configuration name="AnagramCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AnagramCheck" />
+  <component name="RunManager" selected="Application.RotateArray">
+    <configuration name="LongestSubsetArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LongestSubsetArray" />
       <module name="Java-AlgorithmPractices" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Depreciation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Depreciation" />
+    <configuration name="MissingNumberArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MissingNumberArray" />
       <module name="Java-AlgorithmPractices" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseEvenNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReverseEvenNumbers" />
+    <configuration name="OddNumberSorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OddNumberSorting" />
       <module name="Java-AlgorithmPractices" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Star" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Star" />
+    <configuration name="RotateArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RotateArray" />
       <module name="Java-AlgorithmPractices" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ToggleCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ToggleCase" />
+    <configuration name="StringSubsetCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringSubsetCheck" />
       <module name="Java-AlgorithmPractices" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -91,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Star" />
-        <item itemvalue="Application.AnagramCheck" />
-        <item itemvalue="Application.ReverseEvenNumbers" />
-        <item itemvalue="Application.ToggleCase" />
-        <item itemvalue="Application.Depreciation" />
+        <item itemvalue="Application.RotateArray" />
+        <item itemvalue="Application.MissingNumberArray" />
+        <item itemvalue="Application.StringSubsetCheck" />
+        <item itemvalue="Application.LongestSubsetArray" />
+        <item itemvalue="Application.OddNumberSorting" />
       </list>
     </recent_temporary>
   </component>
@@ -110,7 +126,12 @@
       <workItem from="1729698966603" duration="1979000" />
       <workItem from="1730548369303" duration="4894000" />
       <workItem from="1731929303468" duration="16405000" />
-      <workItem from="1732536547023" duration="919000" />
+      <workItem from="1732536547023" duration="934000" />
+      <workItem from="1732543309123" duration="12000" />
+      <workItem from="1732543384607" duration="5000" />
+      <workItem from="1733233232815" duration="1140000" />
+      <workItem from="1734097646566" duration="3000" />
+      <workItem from="1734866554116" duration="22267000" />
     </task>
     <task id="LOCAL-00001" summary="Initial">
       <created>1729699010480</created>
@@ -217,7 +238,14 @@
       <option name="project" value="LOCAL" />
       <updated>1732190516178</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="commit">
+      <created>1732543239719</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1732543239719</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
